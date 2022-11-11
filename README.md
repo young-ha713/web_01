@@ -132,6 +132,18 @@ teamname= 변수명
   
   
   
+오후과제  
+  
+  
+![image](https://user-images.githubusercontent.com/80766275/201291304-fa1560aa-e358-4a87-9b62-3baef30c1ed8.png)
+  
+  
+![image](https://user-images.githubusercontent.com/80766275/201291384-bdafc118-3ebd-4e55-afd0-0acb660443d1.png)
+  
+  
+![image](https://user-images.githubusercontent.com/80766275/201291955-00a4da96-a68c-47fe-bd95-9fd02d43ba43.png)
+
+  
 --------------------------------------------------------------------  
   
   
